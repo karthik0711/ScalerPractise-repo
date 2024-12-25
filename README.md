@@ -1,6 +1,6 @@
-# i am editng this in my main from remote
+# This is README file
 
 ## heading 2
 
 some text 
-
+# I ADDED this in my feature2 branch
