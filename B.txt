@@ -1,6 +1,6 @@
 i added this file directly to main branch in remote
 
-hello 
+hello karthik
 hi 
-hello bhai
-heyaaa
+hello
+heya
